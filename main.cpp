@@ -18,7 +18,7 @@ using namespace std;
 template <class T>
 class RBT;
 
-// swapColor swaps the color from red to black and vice versa
+// swapColor swaps the color from red to black and vice vers
 int swapColor(int c) {
     return (c==0)?1:0;
 }
